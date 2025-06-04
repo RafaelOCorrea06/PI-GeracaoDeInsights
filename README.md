@@ -41,7 +41,7 @@ Otimizar o atendimento telefônico: Avaliar e melhorar a performance da URA e re
 Para visualizar a análise completa e o processo de geração dos gráficos, utilize o notebook .ipynb fornecido neste repositório.
 
 Clone este repositório:
-git clone https://github.com/vitorsciuto/PI-GeracaoDeInsights
+git clone https://github.com/RafaelOCorrea06/PI-GeracaoDeInsights
 
 Navegue até o diretório do projeto:
 cd PI-GeracaoDeInsights

@@ -3,13 +3,6 @@ O objetivo do projeto é analisar um grande volume de reclamações de consumido
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--> Equipe
-Rafael de Oliveira Corrêa, RA 10438174
-Theo Casella Mendonça, RA 10436180
-Vitor Santos Lo Sciuto, RA 10438906
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 -> Dataset
 O estudo utilizou um conjunto de dados interno de interações com clientes, abrangendo o período de 01/01/2023 a 31/12/2024.
 
